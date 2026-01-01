@@ -1,10 +1,70 @@
 # 
 <h1 align="center">Hi, This is moeldemery 👋</h1>
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moeldemeryb&label=Profile%20views&color=320eb4&style=flat-square" alt="moeldemery" /> </p>
+AI Transformation & Intelligent Automation Consultant with 6+ years of enterprise experience across RPA, AI-enabled automation, and backend engineering.
 
+My professional work over the past years was primarily developed and maintained within **company-managed Git repositories** (enterprise GitLab / Azure DevOps / GitHub Enterprise), which is why my personal GitHub activity was limited during that period.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moeldemery&show_icons=true&theme=radical&locale=en&layout=compact" alt="moeldemery" /></p>
+I am currently **reviving and actively maintaining this GitHub profile** to share selected public projects, learning work, and technical experiments that reflect my expertise and ongoing development.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moeldemery&show_icons=true&theme=radical&locale=en" alt="moeldemery" /></p>
+---
+
+## 🔧 Areas of Focus
+
+- 🤖 Intelligent Automation & RPA (UiPath, orchestration, self-healing workflows)
+- 🧠 Applied AI & GenAI in Automation (OCR, NLP, LLM-based validation, exception handling)
+- 🐍 Python & Backend Services (FastAPI, REST APIs, automation services)
+- 🔗 System Integration (APIs, ERP, CRM, cloud services)
+- ☁️ Cloud & DevOps (AWS, Docker, CI/CD fundamentals)
+
+---
+
+## 📂 Public Repositories
+
+### 🧩 **42_Core**
+Low-level C programming and embedded systems fundamentals.
+
+- Language: C
+- Focus: Core logic, performance, embedded-style problem solving
+
+---
+
+### 🔌 **Embedded_Projects**
+Embedded systems–oriented projects and experiments.
+
+- Language: C
+- Focus: Hardware-near programming, structured embedded logic
+
+---
+
+### 📱 **Flutter_Projects**
+Mobile application development experiments and prototypes.
+
+- Language: Dart
+- Focus: UI, state management, and app workflows
+
+---
+
+### 🤖 **Uipath_Basics**
+UiPath fundamentals and RPA building blocks.
+
+- Focus: Automation concepts, workflows, and RPA foundations
+
+---
+
+## 🚀 What to Expect Going Forward
+
+- More **AI-enabled automation examples**
+- Python-based services and orchestration logic
+- Applied GenAI experiments related to enterprise workflows
+- Cleaned-up documentation and reproducible demos
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/mohamed-osama-eldmery
+- Email: mohamedeldemery2@gmail.com
+
+Thanks for visiting — feel free to explore, fork, or reach out.
+
